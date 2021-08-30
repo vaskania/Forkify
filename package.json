@@ -25,5 +25,13 @@
     "fraction.js": "^4.1.1",
     "fractional": "^1.0.0",
     "uniqid": "^5.3.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vaskania/Forkify.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vaskania/Forkify/issues"
+  },
+  "homepage": "https://github.com/vaskania/Forkify#readme"
 }
